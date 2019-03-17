@@ -6,7 +6,7 @@ My development environment in a docker container.
 Clone this project and jump into the project directory.
 
 Build the image:
-    
+
     docker build -t stac/devenv:latest .
 
 Run the container
